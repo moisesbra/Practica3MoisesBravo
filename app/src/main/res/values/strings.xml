@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practica1MoisesBravo</string>
+    <string name="texto_textview">Mi primer app</string>
+    <string name="texto_button_login">login</string>
+    <string name="texto_button_guardar">guardar</string>
+    <string name="texto_button_buscar">buscar</string>
+    <string name="texto_textview_usuario">Ingrese Usuario</string>
+    <string name="texto_textview_clave">Ingrese Clave</string>
+    <string name="texto_button_autenticar">autenticar</string>
+    <string name="texto_textview_ingdatos">Ingresar datos</string>
+    <string name="texto_textview_nombres">Nombres:</string>
+    <string name="texto_textview_apellidos">Apellidos:</string>
+    <string name="texto_edit_ingresarnombres">Ingrese Nombres</string>
+    <string name="texto_edit_ingresarapellidos">Ingrese Apellidos</string>
+    <string name="texto_button_enviar">enviar</string>
+    <string name="texto_edit_cedula">Ingrese la cédula</string>
+    <string name="texto_button_buscarcedula">buscar</string>
+
+</resources>
