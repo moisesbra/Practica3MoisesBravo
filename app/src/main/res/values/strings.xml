@@ -15,5 +15,7 @@
     <string name="texto_button_enviar">enviar</string>
     <string name="texto_edit_cedula">Ingrese la cédula</string>
     <string name="texto_button_buscarcedula">buscar</string>
+    <string name="texto_button_pasarparametro">pasar parametro</string>
+    <string name="texto_edit_pasar_parametro">Escriba una frase:</string>
 
 </resources>
