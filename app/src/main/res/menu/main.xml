@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opcionActividades"
+        android:title="@string/texto_opcion_actividades">
+        <menu>
+            <item
+                android:id="@+id/opcionLogin"
+                android:title="@string/texto_opcion_login">
+
+            </item>
+            <item
+                android:id="@+id/opcionGuardar"
+                android:title="@string/texto_opcion_guardar">
+
+            </item>
+            <item
+                android:id="@+id/opcionBuscar"
+                android:title="@string/texto_opcion_buscar">
+
+            </item>
+            <item
+                android:id="@+id/opcionPasarparatmetro"
+                android:title="@string/texto_opcion_pasar_parametro">
+
+            </item>
+        </menu>
+    </item>
+
+</menu>
+

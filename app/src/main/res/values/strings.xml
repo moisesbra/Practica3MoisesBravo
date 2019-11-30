@@ -17,5 +17,10 @@
     <string name="texto_button_buscarcedula">buscar</string>
     <string name="texto_button_pasarparametro">pasar parametro</string>
     <string name="texto_edit_pasar_parametro">Escriba una frase:</string>
+    <string name="texto_opcion_actividades">Actividades</string>
+    <string name="texto_opcion_login">Login</string>
+    <string name="texto_opcion_guardar">Guardar</string>
+    <string name="texto_opcion_buscar">Buscar</string>
+    <string name="texto_opcion_pasar_parametro">Pasar parametro</string>
 
 </resources>
